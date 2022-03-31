@@ -12,6 +12,7 @@ File 5-execute adds execute permission to the owner of the file hello.
 
 File 6-multiple_permissions adds execute permissions to the owner and the group owner, and read permissions to other users, to the file hello. 
 
+File 7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello.
 
 
 
