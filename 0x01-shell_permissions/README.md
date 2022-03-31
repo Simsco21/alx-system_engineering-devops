@@ -17,3 +17,5 @@ File 7-everybody adds execution permission to the owner, the group owner and the
 File 8-James_Bond sets no permission to the owner and group owner, all permissions to the other users, to the hello file.
 
 File 9-John_Doe sets the mode of the file hello.
+
+File 10-mirror_permissions sets the mode of the file hello the same as olleh's mode.
