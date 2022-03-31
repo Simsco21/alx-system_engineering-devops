@@ -14,5 +14,6 @@ File 6-multiple_permissions adds execute permissions to the owner and the group 
 
 File 7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello.
 
+File 8-James_Bond sets no permission to the owner and group owner, all permissions to the other users, to the hello file.
 
 
