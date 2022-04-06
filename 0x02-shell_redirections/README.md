@@ -4,6 +4,13 @@ Directory for input and output redirections.
 
 1-confused_smiley displays a confused smiley.
 
-2-hellofile display the content of the /etc/passwd file.
+2-hellofile displays the content of the /etc/passwd file.
 
-3-twofiles display the content of /etc/passwd and etc/hosts.
+3-twofiles displays the content of /etc/passwd and etc/hosts.
+
+4-lastlines displays the last 10 lines of /etc/passwd.
+
+5-firstlines displays the first 10 pines of /etc/passwd.
+
+6-thirdline displays the third line of the file iacta. 
+
